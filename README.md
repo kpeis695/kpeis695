@@ -67,8 +67,6 @@ I'm passionate about creating elegant software solutions, optimizing system perf
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeis695&layout=compact&theme=radical&hide_border=true&count_private=true)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpeis695&theme=radical)
-
 </div>
 
 ## 🎯 Featured Projects
