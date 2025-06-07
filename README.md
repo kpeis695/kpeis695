@@ -62,8 +62,6 @@ I'm passionate about creating elegant software solutions, optimizing system perf
 - 📱 Creating responsive, user-friendly interfaces with modern frameworks
 
 ## 📈 GitHub Stats & Activity
-![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeis695&show_icons=true&theme=radical&hide_border=true)
-
 <div align="center">
   
 ![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeis695&show_icons=true&theme=radical&hide_border=true&count_private=true)
