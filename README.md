@@ -61,8 +61,20 @@ I'm passionate about creating elegant software solutions, optimizing system perf
 - 🌐 Developing full-stack platforms serving 500+ users
 - 📱 Creating responsive, user-friendly interfaces with modern frameworks
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 ![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeis695&show_icons=true&theme=radical&hide_border=true)
+
+<div align="center">
+  
+![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true)
+
+</div>
 
 ## 🎯 Featured Projects
 - 📧 **[SlydeBack](https://github.com/kpeis695/SlydeBack)** - Email delay extension with advanced queuing system (95% error reduction)
