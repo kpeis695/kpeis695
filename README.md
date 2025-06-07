@@ -80,7 +80,7 @@ I'm passionate about creating elegant software solutions, optimizing system perf
 ## 📫 How to reach me:
 - **Email:** sek266@cornell.edu
 - **Portfolio:** [your-website.com](https://kpeis695.github.io)
-- **LinkedIn:** [linkedin.com/in/your-profile]((https://www.linkedin.com/in/ks200/))
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/ks200/)
 
 ## 🤝 Connect with me!!
 - **Email:** sek266@cornell.edu
