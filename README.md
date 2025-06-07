@@ -65,7 +65,7 @@ I'm passionate about creating elegant software solutions, optimizing system perf
 
 <div align="center">
   
-![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeis695&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeis695&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeis695&layout=compact&theme=radical&hide_border=true&count_private=true)
 
