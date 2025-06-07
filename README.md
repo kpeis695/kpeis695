@@ -66,13 +66,13 @@ I'm passionate about creating elegant software solutions, optimizing system perf
 
 <div align="center">
   
-![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Sylvester's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpeis695&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeis695&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kpeis695&theme=radical&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpeis695&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true)
 
 </div>
 
